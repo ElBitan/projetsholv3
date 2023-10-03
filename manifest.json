@@ -1,0 +1,43 @@
+{
+    "name": "projet teste",
+    "short_name": "synagogue",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "20230418_203426_0000.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
