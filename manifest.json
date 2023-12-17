@@ -4,8 +4,8 @@
   "lang": "fr",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "red",
-  "theme_color": "black",
+  "background_color": "black",
+  "theme_color": "red",
   "icons": [{
       "src": "https://img.favpng.com/17/25/14/stephen-wise-free-synagogue-computer-icons-yad-menorah-png-favpng-fnz4kiLiM4aDRtN6kCGvhFrAX.jpg",
         "sizes": "128x128",
